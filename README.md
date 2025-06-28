@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Hi, I'm Alex.
 
@@ -33,6 +33,7 @@
 
 ### Tools
 
+
 <a href="https://github.com">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
@@ -48,13 +49,15 @@
 <a href="https://discord.com/users/425797455486124032">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 ## Stats
-
+<div align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxLisin&layout=compact&bg_color=1a1b27&text_color=628fdb&line=628fdb&point=f0fcff&hide=lua" />
-<br>
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=AxLisin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-<img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=AxLisin&theme=tokyonight&include_all_commits=true&count_private=true" />  
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=AxLisin&bg_color=1a1b27&color=628fdb&line=628fdb&point=f0fcff&area=true&hide_border=false" />
+<img width="397" src="https://github-readme-stats.vercel.app/api?username=AxLisin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img width="292" src="https://github-readme-streak-stats.herokuapp.com/?user=AxLisin&theme=tokyonight&include_all_commits=true&count_private=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=200&card_height=160" />  
 
+</div>
+ 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AxLisin&bg_color=1a1b27&color=628fdb&line=628fdb&point=f0fcff&area=true&hide_border=false" />
 
 <div>
 
